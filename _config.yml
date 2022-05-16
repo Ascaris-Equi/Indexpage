@@ -50,7 +50,8 @@ about_profile_image: Images/mmexport1592582783149.jpg # Directory of profile ima
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name is Jiahao Ma, and I’m getting my B.E. from Harbin Institute of Technology. I’m previously studing and doing research at HIT Analytical Science and Technology Center,
  unter the supervision of Prof. Guangfeng Kan. In a few months, I will go to Yantai Coastal Zone Research Institute of Chinese Academy of Sciences for joint training. 
- Currently I’m conducting the research subject of Informed  neural network architecture  under the guidance of Dr. Robin  Singh..
+ Currently I’m conducting the research subject of Informed  neural network architecture  under the guidance of Dr. Robin  Singh.
+  
   My major interest lies in:
   * Application of neural network in quantitative biology
   * Graph database of biological signal transduction network
