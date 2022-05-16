@@ -35,17 +35,4 @@
     Feasibility study on the application of biological flocculation technology in nitrogen removal of marine circulating water aquaculture<br/>
     (Published by TheTech wind on Environmental Engineering)
   description: | # this will include new lines to allow paragraphs
-    The feasibility of bioflocculation technology in circulating mariculture was explored, and some water quality indexes and survival state of sea cucumber were measured.
-
-# Publication template
-- layout: left
-  name: Bioflocculation in aquaculture of marine circulating water
-  link: https://doi.org/10.19392/j.cnki.1671-7341.202107055 # (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/floc.jpg
-  img_style: project-img # or project-img, please see the modern-resume-theme.scss
-  article: |
-    Feasibility study on the application of biological flocculation technology in nitrogen removal of marine circulating water aquaculture<br/>
-    (Published by TheTech wind on Environmental Engineering)
-  description: | # this will include new lines to allow paragraphs
     The feasibility of bioflocculation technology in circulating mariculture was explored, and some water quality indexes and survival state of sea cucumber were measured.The use of bioflocculant reduced the free nitrogen by more than 8%, which was measured by spectrophotometry.
