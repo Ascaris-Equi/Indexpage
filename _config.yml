@@ -73,12 +73,12 @@ projects_title: Publications #(Use this to override about projects section title
 experience_title: Internships #(Use this to override about experience section title)
 
 # Education Section
-education_title: Publications #(Use this to override about education section title)
+# education_title: Publications #(Use this to override about education section title)
 
 # More Section
 more_title: A little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I'm a sparetime photographer and traveller. You can check some of my works in my [500PX](https://500px.com/fgs218ok/) homepage.
+  I'm a sparetime photographer and traveller. You can check some of my works in my [500PX] homepage.
 
 # Footer
 footer_show_references: true
