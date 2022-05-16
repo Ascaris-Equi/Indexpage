@@ -19,7 +19,7 @@
   picture: Images/SEM.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   article: |
-    Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation<br/>
+     	Scanning Electron Microscopy and Metabolite Measurement Revealed the Stress Mechanism of PS-COOH Microplastics on Rhodotorula mucilaginosa AN5 <br/>
     (Preprint by The arXiv.org on Quantitative Biology)
   description: | # this will include new lines to allow paragraphs
     In this study, the stress effect of carboxyl polystyrene on marine Rhodotorula was evaluated by growth curve drawing, metabolite measurement, optical and electron microscopic observation and metabolome analysis. Six oxidative stress substances and enzyme activities were measured and calculated.
