@@ -16,7 +16,7 @@
   name: Stress of microplastics on marine yeast
   link: https://www.semanticscholar.org/paper/Scanning-Electron-Microscopy-and-Metabolite-the-of-Ma-Meng/4159d6310d9021a1d0f13b780d566f8b650b3613 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/GS.jpg
+  picture: Images/SEM.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   article: |
     Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation<br/>
