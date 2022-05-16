@@ -1,12 +1,25 @@
 # Publication template
 - layout: left
-  name: Neural Architecture Search
-  link: https://arxiv.org/abs/2007.02749 # (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github:  https://github.com/wangcn0201/MoARR # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/NAS.png
+  name: Sequence analysis and homology modeling of glutamine synthetase (GS)
+  link: https://www.semanticscholar.org/paper/Bioinformatic-analysis-for-structure-and-function-Ma-Xu/128a54411b5e79220a2c2f4445a82648d480a8d3 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
+  picture: Images/1652683329(1).jpg
   img_style: NAS-img # or project-img, please see the modern-resume-theme.scss
   article: |
-    Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation <br/>
-    (Submitted to The AAAI 2021 Conference on Artificial Intelligence)
+    Bioinformatic analysis for structure and function of Glutamine synthetase(GS)<br/>
+    (Published by The ICBB 2022 Conference on Bio-informatics) 
   description: | # this will include new lines to allow paragraphs
-    We propose a multi-objective method to automatically search for the Pareto Optimal CNN model. By utilizing a more flexible outer level structure and diverse network cells, and at the same time proposing a Model Fast Evaluation Strategy and Self-Adaptive Recommendation, our framework could find a CNN model that reaches 98.1% accuracy on cifar10 dataset with only 2.3M parameters
+    This study used homology modeling to study the structure and molecular evolution of glutamine synthetase from Antarctic sea ice bacteria, optimized the modeling results by thermodynamic simulation, and improved the modeling accuracy by 2.7%. In addition, the secondary structure and physical and chemical characteristics are also concerned by this study.
+
+# Publication template
+- layout: left
+  name: Stress of microplastics on marine yeast
+  link: https://www.semanticscholar.org/paper/Scanning-Electron-Microscopy-and-Metabolite-the-of-Ma-Meng/4159d6310d9021a1d0f13b780d566f8b650b3613 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
+  picture: Images/1652683985(1).jpg
+  img_style: NAS-img # or project-img, please see the modern-resume-theme.scss
+  article: |
+    Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation<br/>
+    (Preprint by The arXiv.org on Quantitative Biology)
+  description: | # this will include new lines to allow paragraphs
+    In this study, the stress effect of carboxyl polystyrene on marine Rhodotorula was evaluated by growth curve drawing, metabolite measurement, optical and electron microscopic observation and metabolome analysis.
