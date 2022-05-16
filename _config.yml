@@ -1,14 +1,14 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: github.com/Ascaris-Equi
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Guosheng Feng
-# title: computer science
-address: Harbin Institute of Technology, Harbin, 150001, China
-email: fgs218ok@outlook.com #(optional)
-phone: (+86)18145193679 #(optional)
-website: https://github.com/elenathFGS #(optional)
+name: Jiahao Ma
+# title: Biological Engineering
+address: Harbin Institute of Technology, Wehai, 264209, China
+email: Hourse_Ten@outlook.com #(optional)
+phone: (+86)15689117509 #(optional)
+website: https://github.com/Ascaris-Equi #(optional)
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -48,16 +48,15 @@ darkmode: never
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Images/profile_head2.png # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Guosheng Feng, and I'm getting my B.S. from Harbin Institute of Technology. I'm previously studing and doing research at Harbin Massive Data Compute Center,
-  unter the supervision of Prof. Hongzhi Wang. During the last few months, I interned at Tencent Technology(Shanghai) as an Assistant Computer Vision Engineer. 
-  Currently I'm self-conducting the research subject of graph neural network architecture search under the guidance of Prof. Hongzhi Wang.
-
+ Hi, my name is Jiahao Ma, and I’m getting my B.E. from Harbin Institute of Technology. I’m previously studing and doing research at HIT Analytical Science and Technology Center,
+ unter the supervision of Prof. Guangfeng Kan. In a few months, I will go to Yantai Coastal Zone Research Institute of Chinese Academy of Sciences for joint training. 
+ Currently I’m conducting the research subject of Informed  neural network architecture  under the guidance of Dr. Robin  Singh..
   My major interest lies in:
-  * Neural Network Architecture Search (NAS).
-  * Image classification and object detection.
-  * Graph Neural Networks.
+  * Application of neural network in quantitative biology
+  * Graph database of biological signal transduction network
+  * Adaptation mechanism of marine microorganisms to extreme and stres.
 
-  My current research subject is Graph Neural Network Architcture Search.
+  My current research subject is establishing a signal transduction database of Synechocystis based on graph database.
 
   
 
