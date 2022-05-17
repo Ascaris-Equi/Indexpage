@@ -1,7 +1,7 @@
 # Publication template
 - layout: left
   name: Sequence analysis and homology modeling of glutamine synthetase (GS)
-  link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: semanticscholar.org/paper/Bioinformatic-analysis-for-structure-and-function-Ma-Xu/128a54411b5e79220a2c2f4445a82648d480a8d3 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/GS.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
@@ -14,7 +14,7 @@
 # Publication template
 - layout: left
   name: Stress of microplastics on marine yeast
-  link: https://doi.org/10.48550/arXiv.2205.03583 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: semanticscholar.org/paper/Scanning-Electron-Microscopy-and-Metabolite-the-of-Ma-Meng/4159d6310d9021a1d0f13b780d566f8b650b3613 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/SEM.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
