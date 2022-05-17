@@ -78,7 +78,7 @@ education_title: Publications #(Use this to override about education section tit
 # More Section
 more_title: A little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  In my spare time, I am a fan of Basketball & Mixed martial arts. In addition, I also like to write pranks or strange small works. You can see some of them in my GitHub warehouse.
+  In my spare time, I am a fan of Basketball & Mixed martial arts. In addition, I also like to write pranks or strange small works, some of which can be seen in my GitHub repositories.
 
 # Footer
 footer_show_references: true
