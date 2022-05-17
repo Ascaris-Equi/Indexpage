@@ -14,10 +14,10 @@
 # projects template
 - layout: left
   name: Construction of the signalingmap database
-  dates: 2022.3-present
+  dates: 2021.9-present
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   # github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/DINN_COVID_US_300Days.png
+  picture: Images/拟南芥信号转导示例.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   #article: |
   description: | # this will include new lines to allow paragraphs
