@@ -20,4 +20,5 @@
   #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     * Learn and try to use mass spectrometry, liquid chromatography, Raman spectroscopy and other instruments.
-
+    * The metabolomics of yeast was studied by liquid chromatography-mass spectrometry.
+    * Learn and develop common omics data processing algorithms, including noise reduction, clustering and ratio equivalence.
