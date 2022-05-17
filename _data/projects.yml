@@ -2,7 +2,7 @@
 - layout: left
   name: Constructing and optimizing informed neural networks for epidemic outbreak trends and risks
   dates: 2022.3-present<br>
-  Supervisor: Prof.Song Qin
+  Supervisor: Dr.Robin Singh
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/DINN_COVID_US_300Days.png
@@ -10,7 +10,7 @@
   #article: |
   description: | # this will include new lines to allow paragraphs
     Referring to the physical informed neural network, this project constructs an informed neural network for compartment model fitting, and optimizes the parameters and structure. <br/>
-    Now it is being tried to fit and predict the disease process.<br/>e
+    Now it is being tried to fit and predict the disease process With guidance from Dr Robin, Apple Inc.<br/>
     The right panel is modeling and prediction of three hundred days data on the prevalence of new crowns in the United States, with dashed lines representing predicted outcomes and yellow representing data for the " future ".
 # projects template
 - layout: left
