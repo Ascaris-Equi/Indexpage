@@ -9,18 +9,15 @@
     * Write app backend program, including Picture and database call.
     * Project management with the Github.
     * Prepare some business plans to participate in the entrepreneurship competition and obtain venture capital.
+    * Help the company win the second prize of challenge cup and advance.
 
 - layout: left
-  company: Massive Data Compute Center of HIT
+  company: Analytical science and Technology Research Center of HIT
   # link: Link to company (optional)
-  job_title: Assistant Researcher
-  dates: July 2019 - May 2020  # (eg. November 2016 - present)
-  # quote: >
+  job_title: Undergraduate science and technology project leader
+  dates: Sep. 2019 - present  # (eg. November 2016 - present)
+  # quote: 
   #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Intern at NAS (Neural Architecture Search) Group guided by Prof. Hongzhi Wang. Some of the details are as follows:
-
-    * Working on the subject of **diversified multi-objective CNN Architecture Search**
-    * Come up with the idea of **multi-parameter Fast Evaluation Strategy**, reduced model evaluation cost from 70 training epoch to 5 epoch
-    *	Model reach the accuracy **98.1%** in **Cifar10 dataset** with only **2.3M parameters**, which surpassed most of the current SOTA models
+    * Learn and try to use mass spectrometry, liquid chromatography, Raman spectroscopy and other instruments.
 
