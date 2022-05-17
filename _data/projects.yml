@@ -9,7 +9,7 @@
   #article: |
   description: | # this will include new lines to allow paragraphs
     Referring to the physical informed neural network, this project constructs an informed neural network for compartment model fitting, and optimizes the parameters and structure. <br/>
-    Now it is being tried to fit and predict the disease process With guidance from Dr Robin, Apple Inc.<br/>
+    Now it is being tried to fit and predict the disease process With guidance from Dr. Robin, Apple Inc.<br/>
     The right panel is modeling and prediction of three hundred days data on the prevalence of new crowns in the United States, with dashed lines representing predicted outcomes and yellow representing data for the " future ".
 # projects template
 - layout: left
