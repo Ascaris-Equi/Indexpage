@@ -1,12 +1,12 @@
-# Publication template
+# projects template
 - layout: left
-  name: Sequence analysis and homology modeling of glutamine synthetase (GS)
-  link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/GS.jpg
+  name: Constructing and optimizing informed neural networks for epidemic outbreak trends and risks
+  # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github:  https://github.com/jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
+  picture: Images/DINN_COVID_US_300Days.png
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
-  article: |
-    Bioinformatic analysis for structure and function of Glutamine synthetase(GS)<br/>
-    (Published by The ICBB 2022 Conference on Bio-informatics) 
+  #article: |
+  #  Bioinformatic analysis for structure and function of Glutamine synthetase(GS)<br/>
+  #  (Published by The ICBB 2022 Conference on Bio-informatics) 
   description: | # this will include new lines to allow paragraphs
-    This study used homology modeling to study the structure and molecular evolution of glutamine synthetase from Antarctic sea ice bacteria, optimized the modeling results by thermodynamic simulation, and improved the modeling accuracy by 2.7%. In addition, the secondary structure and physical and chemical characteristics are also concerned by this study.
+    Referring to the physical informed neural network, this project constructs an informed neural network for compartment model fitting, and optimizes the parameters and structure. Now it is being tried to fit and predict the disease process.
