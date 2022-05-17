@@ -4,7 +4,7 @@
   dates: 2022.3-present
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   github:  https://github.com/jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
-  picture: Images/DINN_COVID_US_300Days.png
+  picture: Images/DINN.png
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   #article: |
   #  Bioinformatic analysis for structure and function of Glutamine synthetase(GS)<br/>
