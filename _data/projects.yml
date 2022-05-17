@@ -8,6 +8,6 @@
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   #article: |
   description: | # this will include new lines to allow paragraphs
-    Referring to the physical informed neural network, this project constructs an informed neural network for compartment model fitting, and optimizes the parameters and structure. <br/>
+    *Referring to the physical informed neural network, this project constructs an informed neural network for compartment model fitting, and optimizes the parameters and structure. <br/>
     Now it is being tried to fit and predict the disease process.<br/>
-    The right panel is modeling and prediction of three hundred days data on the prevalence of new crowns in the United States, with dashed lines representing predicted outcomes and yellow representing data for the " future ".
+    *The right panel is modeling and prediction of three hundred days data on the prevalence of new crowns in the United States, with dashed lines representing predicted outcomes and yellow representing data for the " future ".
