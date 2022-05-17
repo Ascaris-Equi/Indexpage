@@ -1,8 +1,7 @@
 # projects template
 - layout: left
   name: Constructing and optimizing informed neural networks for epidemic outbreak trends and risks
-  dates: 2022.3-present<br>
-  Supervisor: Dr.Robin Singh
+  dates: 2022.3-present
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/DINN_COVID_US_300Days.png
@@ -14,11 +13,10 @@
     The right panel is modeling and prediction of three hundred days data on the prevalence of new crowns in the United States, with dashed lines representing predicted outcomes and yellow representing data for the " future ".
 # projects template
 - layout: left
-  name: Constructing and optimizing informed neural networks for epidemic outbreak trends and risks
-  dates: 2022.3-present<br>
-  Supervisor: Prof.Song Qin
+  name: Construction of the signalingmap database
+  dates: 2022.3-present
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
+  # github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/DINN_COVID_US_300Days.png
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   #article: |
