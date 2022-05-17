@@ -21,6 +21,6 @@
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   #article: |
   description: | # this will include new lines to allow paragraphs
-    Graph database technology has the advantage that traditional relational databases do not. 
-    This study was compiled into an open map database by gathering literature reports on signal transduction processes. 
-    I am currently conducting the construction of the Synechocystis PCC6803 signal transduction database under the guidance of Professor Qin Song.
+    * Graph database (Such as neo4j and cytoscape) has the advantage that traditional relational databases do not. 
+    * This study was compiled into an open map database by gathering literature reports on signal transduction processes. 
+    * I am currently conducting the construction of the Synechocystis PCC6803 signal transduction database under the guidance of Professor Qin Song.
