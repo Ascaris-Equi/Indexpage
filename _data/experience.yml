@@ -4,11 +4,11 @@
   # link: Link to company (optional)
   job_title: Programmer
   dates: Jun. 2020 - Nov. 2021
-  # picture: Images/profile_head.jpg
+  picture: Images/Seedbao.jpg
   description: |
-    * Write app backend program
-    * Project management
-    * Prepare some business plans
+    * Write app backend program, including Picture and database call.
+    * Project management with the Github.
+    * Prepare some business plans to participate in the entrepreneurship competition and obtain venture capital.
 
 - layout: left
   company: Massive Data Compute Center of HIT
