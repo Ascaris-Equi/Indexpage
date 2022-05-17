@@ -2,7 +2,7 @@
 - layout: left
   name: Constructing and optimizing informed neural networks for epidemic outbreak trends and risks
   dates: 2022.3-present<br>
-  Supervisor：Prof.Song Qin
+    Supervisor：Prof.Song Qin
   # link: https://doi.org/10.48550/arXiv.2204.11026 # (eg. sproogen.github.io/modern-resume-theme)(optional)
   github:  jhgoblue/covid-19-pbl  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/DINN_COVID_US_300Days.png
