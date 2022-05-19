@@ -29,10 +29,10 @@ darkmode: never
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
- - title: My CV
-   # icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-   url: https://github.com/Ascaris-Equi/Indexpage/paper/CV-MAJIAHAO.pdf
+#additional_links:
+# - title: My CV
+#   # icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: https://github.com/Ascaris-Equi/Indexpage/paper/CV-MAJIAHAO.pdf
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
