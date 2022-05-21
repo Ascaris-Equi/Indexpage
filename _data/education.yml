@@ -7,7 +7,7 @@
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   article: |
     Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp.<br/>
-    (Published by The ICBB 2022 Conference on Bio-informatics) 
+    (Published by The [ICBB 2022](www.icbb2022.com) Conference on Bio-informatics) 
   description: | # this will include new lines to allow paragraphs
     This study used homology modeling to study the structure and molecular evolution of glutamine synthetase from Antarctic sea ice bacteria, optimized the modeling results by thermodynamic simulation, and improved the modeling accuracy by 2.7%. In addition, the secondary structure and physical and chemical characteristics are also concerned by this study.
 
