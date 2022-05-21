@@ -1,7 +1,8 @@
 # Publication template
 - layout: left
   name: Sequence analysis and homology modeling of glutamine synthetase (GS)
-  link: https://api.semanticscholar.org/CorpusID:248377217 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: https://api.semanticscholar.org/CorpusID:248377217 #1
+  link: http://www.icbb2022.com
   #github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
   picture: Images/GS.jpg
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
