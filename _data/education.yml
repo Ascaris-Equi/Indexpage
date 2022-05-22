@@ -37,3 +37,15 @@
     (Published by TheTech wind on Environmental Engineering)
   description: | # this will include new lines to allow paragraphs
     The feasibility of bioflocculation technology in circulating mariculture was explored, and some water quality indexes and survival state of sea cucumber were measured.The use of bioflocculant reduced the free nitrogen by more than 8%, which was measured by spectrophotometry.
+# Publication template
+- layout: left
+  name: Determination of vitamin content in Functional food
+  link: http://chinaxiv.org/abs/202205.00106 # (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github:  https://github.com/wangcn0201/Indexpage/paper/Bioinformatic analysis for structure and function of Glutamine synthetase.pdf  # (eg. sproogen/modern-resume-theme)(optional)
+  # picture: Images/floc.jpg
+  img_style: project-img # or project-img, please see the modern-resume-theme.scss
+  article: |
+    2,6-dichlorophenyl titration determination of vitamin C content in vesicular tablets of vitamin beverages with and without vitamin C<br/>
+    (preprint by ChinaXiv wind on Biochemistry)
+  description: | # this will include new lines to allow paragraphs
+    The content of vitamin C in vitamin beverages and effervescent tablets was determined by 2,6-dichloroindophenol method. The results showed that each milliliter of pulsatile beverage contained 0.566mg of reduced vitamin C, and each gram of effervescent tablets contained 84.86mg of reduced vitamin C. Confirm the feasibility of the two as supplements.
