@@ -21,7 +21,7 @@
   img_style: project-img # or project-img, please see the modern-resume-theme.scss
   article: |
     Scanning Electron Microscopy and Metabolite Measurement Revealed the Stress Mechanism of PS-COOH Microplastics on Rhodotorula mucilaginosa AN5 <br/>
-    (submitted to Antonie van Leeuwenhoek on Microbiology)
+    (Submitted to Antonie van Leeuwenhoek on Microbiology)
   description: | # this will include new lines to allow paragraphs
     In this study, the stress effect of carboxyl polystyrene on marine Rhodotorula was evaluated by growth curve drawing, metabolite measurement, optical and electron microscopic observation and metabolome analysis. Six oxidative stress substances and enzyme activities were measured and calculated.
 
